@@ -57,3 +57,7 @@ With the **PrepAI mobile app**, you can:
   <br><br>
   ⬇️ **Scroll down to explore and apply to open roles below!** ⬇️
 </p>
+
+
+| 🏢 Company | 💼 Role | 📍 Location | 🔗 Apply | 🗓️ Posted |
+|-----------|---------|-------------|----------|------------|
