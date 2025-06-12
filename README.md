@@ -60,7 +60,7 @@ With the **PrepAI mobile app**, you can:
 
 
 | 🏢 Company | 💼 Role | 📍 Location | 🔗 Apply | 🗓️ Posted |
-|-----------|---------|-------------|----------|------------|
+|-----------|---------|-------------|-------------|------------|
 | Lumentum | Software Automation Test Engineer (Co-op Student/Intern) | Ottawa, Ontario | [![Apply](https://img.shields.io/badge/🚀%20APPLY-4DB6FF?style=for-the-badge&labelColor=4DB6FF&logoColor=white)](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Automation-Test-Engineer--Co-op-Student-Intern-_20251012) | Jun 12 |
 | o9 Solutions, Inc. | Product Management Intern | Texas | [![Apply](https://img.shields.io/badge/🚀%20APPLY-4DB6FF?style=for-the-badge&labelColor=4DB6FF&logoColor=white)](https://o9solutions.wd5.myworkdayjobs.com/en-US/o9SolutionsExternal/job/Works-From-Home---Texas/Product-Management-Intern_JR101865) | Jun 12 |
 | Copart | Software Engineering Intern | Texas | [![Apply](https://img.shields.io/badge/🚀%20APPLY-4DB6FF?style=for-the-badge&labelColor=4DB6FF&logoColor=white)](https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510) | Jun 12 |
