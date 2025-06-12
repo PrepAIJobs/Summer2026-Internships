@@ -1,31 +1,59 @@
-## 🌟 Fall 2025, Spring 2026 & Summer 2026 Tech Internships
+<h1>🌟 2026 Summer Internships by <strong>PrepAI</strong></h1>
 
-**The torch has been passed.**
-This repository is now maintained by **PrepAI** to help students discover and track **Fall 2025**, **Spring 2026**, and **Summer 2026 internships** in Software Engineering, Product Management, Quant, and related tech roles.
 
-🌎 **Available in:** United States, Canada, and remote positions only
-🤝 Inspired by the amazing work of **Pitt CSC**, **Vansh & Ouckah**, and **Simplify**
-📬 Have something to add? [**Submit an issue**](#) and check out our [**contribution guidelines**](#)!
+Welcome! This open-source repository is curated and maintained by **PrepAI** to help students discover the best internship opportunities for:
+
+- 🗓 **Fall 2025**  
+- 🗓 **Spring 2026**  
+- 🗓 **Summer 2026**
+
+Across roles in:
+
+- 💻 Software Engineering  
+- 📊 Product Management  
+- 📈 Quant & Data  
+- ⚙️ Other top tech domains
+
+🌎 **Eligible locations:** United States, Canada, and Remote  
+🤝 Inspired by the incredible work of **Pitt CSC**, **Vansh & Ouckah**, and **Simplify**  
+📬 Want to contribute? [**Submit an issue**](#) and check out our [**contribution guidelines**](#)
 
 ---
 
-## 🚀 Supercharge Your Internship Search with PrepAI
+## 🚀 Tired of Job Portals? Let <strong>PrepAI</strong> Apply *for* You
 
-Tired of filling out the same job applications over and over?
+> Applying should be easy. That’s why we built **PrepAI** — the fastest way to find and apply to internships that actually fit you.
 
 With the **PrepAI mobile app**, you can:
 
-* 🔄 **Swipe right** to instantly apply to curated internships
-* ⚡ Auto-fill your details and skip the repetitive grind
-* 🎯 Discover roles tailored to your resume, interests, and goals
+- ✅ **Swipe right** to instantly apply to curated internships  
+- ⚡ **Auto-fill** your details — no more repetition  
+- 🎯 Discover roles matched to your **skills**, **goals**, and **timeline**
 
-### 👉 Download the app and start swiping your way to an offer:
-
-[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/prep-ai-crush-your-interview/id6740011494)
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=ai.magnifex.prepai&hl=en)
-
-> 🎯 Your internship journey just got smarter – thanks to **PrepAI**.
+> 🧠 Built by engineers who’ve been in your shoes.
 
 ---
 
-Let me know if you'd like to add a GIF demo, badge stats (e.g., stars, forks), or prep tips section!
+## 📲 Get the App and Start Applying Instantly
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/prep-ai-crush-your-interview/id6740011494" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=ai.magnifex.prepai&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="55" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://qxkswyqmsisjdtmywnow.supabase.co/storage/v1/object/public/assets//PrepAILogo.png" alt="PrepAI Full Logo" height="80" />
+</p>
+
+<p align="center">
+  <strong>✨ Your internship search just got smarter — thanks to PrepAI.</strong>  
+  <br><br>
+  ⬇️ **Scroll down to explore and apply to open roles below!** ⬇️
+</p>
