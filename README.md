@@ -16,7 +16,7 @@ Across roles in:
 
 🌎 **Eligible locations:** United States, Canada, and Remote  
 🤝 Inspired by the incredible work of **Pitt CSC**, **Vansh & Ouckah**, and **Simplify**  
-📬 Want to contribute? [**Submit an issue**](#) and check out our [**contribution guidelines**](#)
+📬 Want to contribute? [**Submit an issue**](#) and check out our [**contribution guidelines**](https://github.com/prepai-dev/summer2026-internships/blob/dev/CONTRIBUTING.md)
 
 ---
 
