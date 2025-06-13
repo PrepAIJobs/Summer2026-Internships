@@ -1,7 +1,7 @@
 # 🚀 Contributing to the Job List
 
 Thanks for helping us grow the new-grad job list! 🙌
-Follow the steps below to add or update job postings. If you're ever unsure, feel free to [open an issue](https://github.com/cvrve/New-Grad/issues/new/choose).
+Follow the steps below to add or update job postings. If you're ever unsure, feel free to [open an issue](https://github.com/prepai-dev/summer2026-internships/issues/new/choose).
 
 ---
 
@@ -40,14 +40,10 @@ Once approved, your job will automatically appear in the `README`!
 
 Need to update or remove a job? Here's how:
 
-1. Copy the job’s URL:
-
-   * Right-click the **APPLY** link and select **"Copy Link Address"**
-2. Go to the [New Issue page](https://github.com/prepai-dev/summer2026-internships/issues/new/choose)
-3. Select the **“Edit Role”** template
-4. Paste the job’s URL into the **Link** field
-5. Fill out **only the fields you want to change**
-
+1. Get all the job details
+2. Go to the [Edit Job page](https://github.com/vanshb03/New-Grad-2025/issues/new?template=edit_role.yaml)
+3. Paste the job’s URL into the **Link** field
+4. Fill out **only the fields you want to change**
    * Leave everything else blank
 6. (Optional) Use the **Reason** box to explain the change, if it’s not obvious
 7. Submit the form!
