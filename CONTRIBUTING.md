@@ -41,7 +41,7 @@ Once approved, your job will automatically appear in the `README`!
 Need to update or remove a job? Here's how:
 
 1. Get all the job details
-2. Go to the [Edit Job page](https://github.com/vanshb03/New-Grad-2025/issues/new?template=edit_role.yaml)
+2. Go to the [Edit Job page](https://github.com/prepai-dev/summer2026-internships/issues/new?template=edit_role.yaml)
 3. Paste the job’s URL into the **Link** field
 4. Fill out **only the fields you want to change**
    * Leave everything else blank
