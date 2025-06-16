@@ -1,4 +1,4 @@
-<h1>🌟 2026 Summer Internships by <strong>PrepAI</strong></h1>
+<h1>🌟 2026 Summer Tech Internships by <strong>PrepAI</strong></h1>
 
 
 Welcome! This open-source repository is curated and maintained by **PrepAI** to help students discover the best internship opportunities for:
