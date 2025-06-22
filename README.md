@@ -264,7 +264,7 @@ With the **PrepAI mobile app**, you can:
 | Mila | Développeur.se Principal.e - Recherche Appliquée en Apprentissage Automatique | Montréal, Quebec | <a href="https://apply.workable.com/j/0EF0AE22B1/apply"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 4 |
 | CDW | On Campus Internship - University of Oregon | Oregon, Ohio | 🔒 | Jun 4 |
 | CDW | On Campus Internship - The Ohio State University | Ohio | 🔒 | Jun 4 |
-| Flagship Facility Services | Information Technology Intern | Southlake, Texas | <a href="https://flagshipinc.wd5.myworkdayjobs.com/en-US/flagshipinc/job/TX---SOUTHLAKE/Information-Technology-Intern_R19075"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 4 |
+| Flagship Facility Services | Information Technology Intern | Southlake, Texas | 🔒 | Jun 4 |
 | SAP | SAP iXp Stagiaire - Ingénieur en tests d'automatisation | Montréal, Quebec | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Stagiaire-Ing%C3%A9nieur-en-tests-d'automatisation-Qu%C3%A9b-H3B-0B3/1210553901/"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 4 |
 | SAP | SAP iXp Intern - Automation Test Engineer | Montréal, Quebec | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Automation-Test-Engineer-Queb-H3B-0B3/1210553801/"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 4 |
 | ASSA ABLOY | IT Intern | Berlin, New Hampshire | 🔒 | Jun 4 |
