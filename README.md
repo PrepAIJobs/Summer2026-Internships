@@ -61,6 +61,7 @@ With the **PrepAI mobile app**, you can:
 
 | 🏢 Company | 💼 Role | 📍 Location | 🔗 Apply | 🗓️ Posted |
 |:----------|:--------|:-----------|:---------:|:----------:|
+| Unity | Développeur(se) Staff en Apprentissage Automatique \| Staff Machine Learning Developer | Montréal, Quebec | <a href="https://unity.com/careers/positions/6976335?gh_jid=6976335"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 23 |
 | Cayenta | Software Developer, Co-op/Intern | British<br>Columbia | <a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/Cayenta/job/British-Columbia-Canada/Software-Developer--Co-op-Intern_R0030280-8"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="100" height="80"></a> | Jun 22 |
 | Texas<br>Instruments | Software Engineering Intern | Remote | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25002040"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="100" height="80"></a> | Jun 22 |
 | Konrad Group | Software Developer Intern - May 2026 (4<br>months) | Toronto,<br>Ontario | <a href="https://www.konrad.com/careers/job/6616787003?gh_jid=6616787003"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="100" height="80"></a> | Jun 21 |
