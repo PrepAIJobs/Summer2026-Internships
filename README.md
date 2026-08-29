@@ -18,6 +18,8 @@ Across roles in:
 🤝 Inspired by the incredible work of **Pitt CSC**, **Vansh & Ouckah**, and **Simplify**  
 📬 📬 Got an internship to add? [**Submit an issue**](https://github.com/prepai-dev/summer2026-internships/issues) and check out our [**contribution guidelines**](./CONTRIBUTING.md)!
 
+You can also [search and filter the jobs from this repository on openings.dev](https://openings.dev/communities/PrepAIJobs/Summer2026-Internships). Each result links back to the original issue for current details and application instructions.
+
 ---
 
 ## 🚀 Tired of Job Portals? Let <strong>PrepAI</strong> Apply *for* You
